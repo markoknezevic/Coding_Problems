@@ -13,4 +13,3 @@ for i in s:
 print(singles)
 for i in range(5):
     print("j")
-
